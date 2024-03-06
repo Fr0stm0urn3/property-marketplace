@@ -23,6 +23,7 @@ const PropertyCard = ({ property }) => {
         sizes={"100vw"}
         height={0}
         width={0}
+        priority={true}
       />
       <div className="p-4">
         <div className="text-left md:text-center lg:text-left mb-6">
