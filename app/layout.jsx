@@ -5,6 +5,7 @@ import "@/assets/styles/globals.css"
 import { ToastContainer } from "react-toastify"
 import "react-toastify/dist/ReactToastify.css"
 import { GlobalProvider } from "@/context/GlobalContext"
+import "photoswipe/dist/photoswipe.css"
 
 export const metadata = {
   title: "PropertyMarketplace | Find The Perfect Rental",
